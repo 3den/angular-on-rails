@@ -1,12 +1,12 @@
-# angularjs-rails
+# angular-on-rails
 
-angularjs-rails wraps the [Angular.js](http://angularjs.org) library for use in Rails 3.1 and above. Assets will minify automatically during production.
+angular-on-rails wraps the [Angular.js](http://angularjs.org) library for use in Rails 3.1 and above. Assets will minify automatically during production.
 
 ## Usage
 
 Add the following to your gemfile:
 
-    gem 'angularjs-rails'
+    gem 'angular-on-rails'
 
 Add the following directive to your Javascript manifest file (application.js):
 
